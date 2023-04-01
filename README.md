@@ -25,3 +25,4 @@ import os
 
 import sys
 
+after downloading - just download the zip file, unzip it, and run jarvis.py
