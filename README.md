@@ -6,12 +6,22 @@ how to use:
 the following libraries are used in the assistant - make sure you use pip to install them
 
 import pyttsx3
+
 import webbrowser
+
 import smtplib
+
 import random
+
 import speech_recognition as sr
+
 import wikipedia
+
 import datetime
+
 import wolframalpha
+
 import os
+
 import sys
+
