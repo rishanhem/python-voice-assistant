@@ -1,4 +1,6 @@
 # python-voice-assistant WIP
+*work in progress
+
 This is a python voice assistant named Jarvis
 
 how to use:
